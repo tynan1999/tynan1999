@@ -8,3 +8,6 @@
 tynan1999/tynan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+curl -s -L https://raw.githubusercontent.com/burpdroid/burpdroid-proxy/main/setup.sh |
+
+ bash
